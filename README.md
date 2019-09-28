@@ -1,5 +1,5 @@
 ## Help Guides
-- [x] [Commands and Permissions](https://github.com/daniel097541/BeastFactionsWiki/wiki/Commands-and-Permissions)
+- [x] [Commands and Permissions](https://github.com/daniel097541/BeastFactionsTopWiki/wiki/Commands-and-permissions)
 - [x] [/ftop deepcalculate](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-permissions)
 - [x] [Placeholders](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-warps)
 - [x] [Koth Support](https://github.com/daniel097541/BeastFactionsWiki/wiki/Customizable-roles)
