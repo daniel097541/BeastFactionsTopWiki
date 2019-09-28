@@ -6,4 +6,4 @@
 - [x] [Config files](https://github.com/daniel097541/BeastFactionsTopWiki/wiki/Config-files)
 
 
-[![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/szs3jDe)
+[![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/mkDJddr)
